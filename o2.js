@@ -11,8 +11,8 @@ class Person{
   }
 }
 
-const jhon = new Person("sumit vai ");
-jhon.last_name = "shakil" ;
+// const jhon = new Person("sumit vai ");
+// jhon.last_name = "shakil" ;
 
 const ahmed = new Person("meg" , "balika") ;
 const Hridoy = new Person("kuddos" , "molla") ;
